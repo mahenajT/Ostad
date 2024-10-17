@@ -1,0 +1,6 @@
+React Js is a Library
+npm crete vite
+npm install
+npm run build
+npm run dev
+
